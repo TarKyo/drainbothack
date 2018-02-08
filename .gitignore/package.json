@@ -2,7 +2,7 @@
   "name": "drainhack",
   "version": "0.0.1",
   "description": "Bot Hacking",
-  "main": "index.js",
+  "main": "Index.js",
   "dependencies": {
     "cat-facts": "^1.0.2",
     "chalk": "^2.3.0",
